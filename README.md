@@ -1,6 +1,7 @@
 # Simple walktrough for an named entitiy recognition (NER) system for the German language
 
 Different embeddings get benchmarked, that are possibly good for German NER. 
+(BERT notebooks follow soon)
 
 ## Setup
 Flair Experiments: [Flair](https://github.com/flairNLP/flair) and [Google Colab](https://colab.research.google.com)
