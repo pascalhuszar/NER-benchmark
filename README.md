@@ -1,4 +1,4 @@
-# Simple walktrough for an named entitiy recognition (NER) setup for the German language
+# Simple walktrough for a named entitiy recognition (NER) setup for the German language
 
 Different embeddings for Named Entity Recognition (NER) in German text are benchmarked. As stated in my bachelor [thesis](paper/evaluation_of_deep_learning_methods.pdf), a combination of BERT embeddings and Flair embeddings yields new best performances on the GermEval-14 NER dataset (F1-score of 86.62).
 
